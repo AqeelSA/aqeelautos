@@ -1,5 +1,5 @@
 ## PROJECT
-## Aqeel AUTOS website onle portfolio with Order booking services
+## Aqeel AUTOS website online portfolio with Order booking services
 <img src="https://user-images.githubusercontent.com/80625836/137516737-1714bb50-d5b7-4a16-907d-3d4ee0198f0f.jpg" width="250">
 
 ## Features
